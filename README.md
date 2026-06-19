@@ -1,16 +1,21 @@
-﻿# website-upload-20260602-121726-026
+# 静态电影网站生成说明
 
-Batch 26 of 38. Contains extracted static website versions. The original zip files are not committed.
+- 影片数据：2000 条
+- 独立详情页：2000 个
+- 独立分类页：10 个
+- 原 JS 中解析到 m3u8 播放源：20 条
+- 首页、分类页、榜单页、详情页均已插入百度统计脚本。
+- 页面内容以静态 HTML 写入，搜索与播放器为纯前端脚本。
 
-| Directory | Source zip |
-| --- | --- |
-| version-251 | project-bolt-sb1-4dqvvruw-chatgpt (1) (moved 2).zip |
-| version-252 | project-bolt-sb1-4dqvvruw-chatgpt (1).zip |
-| version-253 | project-bolt-sb1-4dszuzjj - 副本-chatgpt (1) (moved 1).zip |
-| version-254 | project-bolt-sb1-4dszuzjj - 副本-chatgpt (1) (moved 2).zip |
-| version-255 | project-bolt-sb1-4dszuzjj - 副本-chatgpt (1).zip |
-| version-256 | project-bolt-sb1-4dszuzjj-chatgpt (1) (moved 1).zip |
-| version-257 | project-bolt-sb1-4dszuzjj-chatgpt (1) (moved 2).zip |
-| version-258 | project-bolt-sb1-4dszuzjj-chatgpt (1).zip |
-| version-259 | project-bolt-sb1-4ebqd3jg - 副本-chatgpt (1) (moved 1).zip |
-| version-260 | project-bolt-sb1-4ebqd3jg - 副本-chatgpt (1).zip |
+## 分类分布
+
+- 动作冒险：200 部
+- 爱情家庭：200 部
+- 喜剧生活：200 部
+- 悬疑犯罪：199 部
+- 惊悚恐怖：201 部
+- 科幻奇幻：200 部
+- 动画青春：200 部
+- 纪录历史：200 部
+- 亚洲剧场：200 部
+- 环球片库：200 部
